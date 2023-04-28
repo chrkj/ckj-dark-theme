@@ -1,6 +1,7 @@
 {
   "name": "ckj-dark-theme",
   "displayName": "ckj dark theme",
+  "publisher": "ckj",
   "description": "Color theme based off Visual assist dark theme",
   "version": "0.0.1",
   "engines": {
