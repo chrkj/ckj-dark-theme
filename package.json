@@ -1,0 +1,21 @@
+{
+  "name": "ckj-dark-theme",
+  "displayName": "ckj dark theme",
+  "description": "Color theme based off Visual assist dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ckj Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ckj Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
